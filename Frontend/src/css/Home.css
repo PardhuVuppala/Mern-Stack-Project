@@ -1,0 +1,123 @@
+.App10{
+    background-color: orange;
+    text-decoration: none;
+    padding-left: 23px;
+    padding-right: 23px;
+    font-size: 20px;
+    float: right;
+    color: white;
+    border-radius: 15px;
+    border-color: aquamarine;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-right: 6px;
+}
+.App11
+{
+    background-color: orange;
+    text-decoration: none;
+    padding-left: 33px;
+    padding-right: 33px;
+    float: right;
+    font-size: 20px;
+    color: white;
+    border-radius: 15px;
+    border-color: aquamarine;
+    margin-right:25px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+
+.App1 {
+    background-color: #5fb2ce;
+    text-decoration: none;
+    padding-left: 23px;
+    padding-right: 23px;
+    font-size: 20px;
+    color: white;
+ 
+
+}
+.App2{
+    background-color:#5fb2ce;
+    padding-top: 9px;
+    padding-bottom: 15px;
+   
+
+}
+#App12
+{
+  margin-right: 10px;
+  margin-bottom: 9px;
+}
+#App13
+{   height:280px;
+   width: 100%;
+}
+#App15
+{
+   height: 200px;
+   width:240px;
+   padding-left: 30px;
+}
+#App16{
+    width:18rem;
+}
+#App17
+{
+    margin-left: 10px;
+}
+#App19
+{
+    width:20rem;
+    margin-left: 400px;
+}
+#App20
+{
+    width:20rem;
+    Margin-left: 400px;
+
+}
+#App21
+{
+    font-size: 20px;
+}
+
+#App30                             
+{
+    background-color: #add8e6;
+}
+#App25{
+    width: 100%;
+    
+}
+#App26{
+    width:15rem;
+   
+
+}
+#App24{
+    padding-left: 320px;
+}
+#App32
+{
+    background-color:lightblue;
+    margin-bottom: 0px;
+    padding: 13px;
+}
+#App60
+{
+margin-right: 12px;
+padding-top: 6px;
+width:225px;
+}
+#App51{
+    width: 100%;
+}
+#App185{
+    background-image:url('../images/26.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}

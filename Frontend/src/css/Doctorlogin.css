@@ -1,0 +1,41 @@
+#F1{
+    
+        background-color: rgba(0,0,0.5,0);
+        margin: auto;
+        padding: 40px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px #000;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 500px;
+        height:450px;
+   
+}
+ #App500{
+    
+    background-color: rgba(0,0,0.5,0);
+     
+ }
+ .bg_image1{
+     background-image:url('../images/image2.png');
+     background-size: cover;
+     height: 100vh;
+     width: 100%;
+  
+ }
+ .Admin1
+ {
+   margin: 0;
+   text-align: right;
+   
+ }
+ #F2
+ {
+    background-color: rgba(0,0,0.5,0);
+
+     
+
+ }

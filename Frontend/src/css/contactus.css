@@ -1,0 +1,33 @@
+#Cont
+{
+   padding: 10px;
+}
+#cont4{
+  float: left;
+        width: 50%;
+        height: 50%;
+        text-align: center;
+}
+#cont5{
+  list-style: none;
+  font-size: 22px;
+}
+#cont6
+{
+  margin:10px;
+  width: 270px;
+  border-radius: 5px;
+   background-color:white;
+   height: 40px;
+}
+.parent{
+ margin-top: 160px;
+ margin-bottom: 160px;
+ 
+}
+.cont7{
+  background-image: url('../images/21.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}

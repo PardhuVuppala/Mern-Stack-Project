@@ -1,0 +1,37 @@
+
+#App9{
+   
+   width: 500px;
+   padding-top: 120px;
+}
+#App7{
+    padding: 25px;
+    background-color: hsl(236, 100%, 97%);
+    border-radius: 25px;
+}
+.bg_image{
+    background-image:url('../images/image.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+ 
+}
+.Admin1
+{
+    margin-left: 262px;
+}
+#Admin111{
+  background-color: lightblue;
+  min-height: 100vh;
+}
+#DoctorAfterLogin
+{
+    background-color: lightblue;
+  min-height: 100vh;
+  background-image:url('../images/27.webp');
+  background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+
+}
